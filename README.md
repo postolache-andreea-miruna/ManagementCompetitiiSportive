@@ -1,0 +1,2 @@
+# ManagementCompetitiiSportive
+Java Maven Project 
