@@ -1,24 +1,24 @@
 # 10 business requirements
 
-## 1. Aplicatia permite adaugarea, modificarea si afisarea cluburilor din federatie.
+ 1. Aplicatia permite adaugarea, modificarea si afisarea cluburilor din federatie.
 
-## 2. Aplicatia permite adaugarea, modificarea si afisarea antrenorilor care sunt angajati la cluburile federatiei.
+ 2. Aplicatia permite adaugarea, modificarea si afisarea antrenorilor care sunt angajati la cluburile federatiei.
 
-## 3. Aplicatia permite adaugarea, modificarea si afisarea sportivilor care se afla in responsibilitatea unui antrenor.
+ 3. Aplicatia permite adaugarea, modificarea si afisarea sportivilor care se afla in responsibilitatea unui antrenor.
 
-## 4. Aplicatia permite adaugarea, modificarea, afisarea si stergerea tipurilor de competitii.
+ 4. Aplicatia permite adaugarea, modificarea, afisarea si stergerea tipurilor de competitii.
 
-## 5. Aplicatia permite adaugarea, modificarea, afisarea competitiilor care vor avea loc.
+ 5. Aplicatia permite adaugarea, modificarea, afisarea competitiilor care vor avea loc.
 
-## 6. Aplicatia permite stergerea competitiilor.
+ 6. Aplicatia permite stergerea competitiilor.
 
-## 7. Aplicatia permite adaugarea, modificarea, afisarea probelor care au loc in cadrul competitiilor.
+ 7. Aplicatia permite adaugarea, modificarea, afisarea probelor care au loc in cadrul competitiilor.
 
-## 8. Aplicatia permite inscrierea unui sportiv la o proba din cadrul unei competitii, dar si stergerea unei inscrieri.
+ 8. Aplicatia permite inscrierea unui sportiv la o proba din cadrul unei competitii, dar si stergerea unei inscrieri.
 
-## 9. Aplicatia permite afisarea rezultatelor sportivilor/sportivului dorit sub diverse forme.
+ 9. Aplicatia permite afisarea rezultatelor sportivilor/sportivului dorit sub diverse forme.
 
-## 10. Aplicatia va utiliza o baza de date pentru a stoca datele.
+ 10. Aplicatia va utiliza o baza de date pentru a stoca datele.
 
 # 5 main features
 
