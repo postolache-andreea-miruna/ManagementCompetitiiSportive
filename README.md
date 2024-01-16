@@ -117,3 +117,14 @@ Administratorul se ocupa cu introducerea cluburilor, iar in cazul introducerii d
 
 <img width="1072" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/2b1cf607-0d2f-4f39-914a-446cddba9a36">
 
+# Postman
+
+<img width="275" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/29f85bf9-6d5c-4b39-8731-743538f0c786">
+
+Exemplu de apelare a unei functionalitati
+
+<img width="973" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/0f44f04b-c9aa-47e3-b0a1-309ccad5691a">
+
+Exemplu de mesaj de eroare
+
+<img width="959" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/875c7858-1d95-428b-8c7f-9feeaa7572d1">
