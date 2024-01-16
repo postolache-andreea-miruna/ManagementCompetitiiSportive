@@ -102,3 +102,18 @@ Administratorul se ocupa cu introducerea cluburilor, iar in cazul introducerii d
 
 # Database
 <img width="733" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/029002ed-718d-4222-b7ea-a17b4c2acd47">
+
+# POJO classes & Validation
+<details><summary><h2>POJO class example</h2></summary><br/>
+<img width="508" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/c4b133ae-5ea5-4adc-a659-0630086d7038">
+</details>
+
+<details><summary><h2>Validation example</h2></summary><br/>
+<img width="1071" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/4f3afa66-cfa3-4aeb-91be-c7df92f3fbe2">
+</details>
+
+# Swagger
+<img width="333" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/52d45792-6147-4403-a5f8-b8f2a7533a34">
+
+<img width="1072" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/2b1cf607-0d2f-4f39-914a-446cddba9a36">
+
