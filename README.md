@@ -49,3 +49,53 @@ Administratorul poate adauga sportivi pe care ii asociaza cu antrenorii la care 
 5. Gestionarea cluburilor
 
 Administratorul se ocupa cu introducerea cluburilor, iar in cazul introducerii de date eronate se pot face modificari ulterioare. Se vor afisa toate cluburile, dar si informatiile despre un club dat.
+
+# REST endpoints for all the features defined for the MVP
+
+  <details><summary><h2>Controllers</h2></summary><br/>
+<img width="150" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/81b5dabd-895b-4a4d-84a6-8d02684643d4">
+  </details>
+ <details><summary><h2>Example of CRUD operations</h2></summary><br/>
+   <details><summary><h3>Get</h3></summary><br/>
+<img width="503" alt="Screenshot 2024-01-16 135807" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/d34356aa-0a7e-47ee-8791-7fa526fad688">
+   </details>
+   <details><summary><h3>Post</h3></summary><br/>
+<img width="825" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/d1ec15b3-06d0-46d9-849e-6a4a688cff80">
+   </details>
+ </details>
+
+ # Beans for defining services - One service per feature
+ <details><summary><h2>Services</h2></summary><br/>
+ <img width="155" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/af01e448-7345-45f5-8903-5d242513b8a5">
+ </details>
+ <details><summary><h2>Service example</h2></summary><br/>
+<img width="643" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/bfc59d21-c560-4252-b7ab-00919d314966">
+ </details>
+ 
+# Beans for defining repositories - One repository per entity
+ <details><summary><h2>Entities</h2></summary><br/>
+   <img width="107" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/cb2eaeb2-2207-4e3c-a718-a453fbdf7299">
+ </details>
+ 
+ <details><summary><h2>Repositories</h2></summary><br/>
+   <img width="147" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/1142890d-94a3-45b9-9571-c2aa08eea4fa">
+ </details>
+ 
+<details><summary><h2>Repository example</h2></summary><br/>
+ <img width="485" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/863ef459-8d2f-4a58-9d9b-0ff5de5c4ed0">
+</details>
+
+# TESTS
+<details><summary><h2>Tests for controllers</h2></summary><br/>
+<img width="234" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/76c33f23-47c0-438e-80fa-5bcbc49a12e2">
+
+  <img width="506" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/7d3a2871-197b-4fd4-a1a1-272b2ed20603">
+
+</details>
+
+<details><summary><h2>Tests for services</h2></summary><br/>
+  <img width="232" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/043c5d78-7107-4f9d-a7e0-a529aeacbe30">
+
+<img width="501" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/8d61d996-3cf2-42f8-ac0a-b3b228c14f1a">
+
+</details>
