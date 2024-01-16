@@ -99,3 +99,6 @@ Administratorul se ocupa cu introducerea cluburilor, iar in cazul introducerii d
 <img width="501" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/8d61d996-3cf2-42f8-ac0a-b3b228c14f1a">
 
 </details>
+
+# Database
+<img width="733" alt="image" src="https://github.com/postolache-andreea-miruna/ManagementCompetitiiSportive/assets/79594745/029002ed-718d-4222-b7ea-a17b4c2acd47">
